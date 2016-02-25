@@ -1,0 +1,32 @@
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe.config
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.pdb
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.MainUI.resources
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.exe
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.pdb
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.CreateStudentUI.resources
+C:\Users\PC21\Desktop\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.EnrollMentUI.resources
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe.config
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.exe
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.pdb
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.pdb
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.CreateStudentUI.resources
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.EnrollMentUI.resources
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.MainUI.resources
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.Properties.Resources.resources
+G:\nnee\Harun\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.csproj.GenerateResource.Cache
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe.config
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.exe
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\bin\Debug\StudentCourseInfoApp.pdb
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.csprojResolveAssemblyReference.cache
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.CreateStudentUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.UI.EnrollMentUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.MainUI.resources
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.Properties.Resources.resources
+G:\BASIS OOP C# ASP.Net ,2014\Very Important Project\StudentCourseInfoApp\StudentCourseInfoApp\StudentCourseInfoApp\obj\Debug\StudentCourseInfoApp.csproj.GenerateResource.Cache
